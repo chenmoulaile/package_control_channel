@@ -4120,12 +4120,11 @@
 			]
 		},
 		{
-			"name": "cph-by-chenkx",
 			"details": "https://github.com/chenmoulaile/cph-by-chenkx",
 			"labels": ["c", "c++", "competitive programming", "testing"],
 			"releases": [
 				{
-					"sublime_text": "*",
+					"sublime_text": ">=4095",
 					"tags": true
 				}
 			]
