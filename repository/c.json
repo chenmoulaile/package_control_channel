@@ -4120,6 +4120,7 @@
 			]
 		},
 		{
+			"name": "Algorithm Competition Assistant",
 			"details": "https://github.com/chenmoulaile/cph-by-chenkx",
 			"labels": ["c", "c++", "competitive programming", "testing"],
 			"releases": [
